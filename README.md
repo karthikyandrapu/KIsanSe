@@ -43,21 +43,23 @@
 
 ## 📸 Screenshots
 
-1. **📊 KisanSe**
-   - ![Homepage Screenshot 1](Screenshots/Screenshot1.png)
+1. **📊 KisanSe Home Page**
+   
+    ![Homepage Screenshot 1](Screenshots/Screenshot1.png)
      
-   - ![Homepage Screenshot 2](Screenshots/Screenshot2.png)
+    ![Homepage Screenshot 2](Screenshots/Screenshot2.png)
      
-   - ![Homepage Screenshot 3](Screenshots/Screenshot3.png)
+    ![Homepage Screenshot 3](Screenshots/Screenshot3.png)
 
 2. **🛠️ Admin Panel Dashboard**
-   - ![Admin Panel Screenshot 1](Screenshots/Screenshot4.png)
+   
+    ![Admin Panel Screenshot 1](Screenshots/Screenshot4.png)
      
-   - ![Admin Panel Screenshot 2](Screenshots/Screenshot5.png)
+    ![Admin Panel Screenshot 2](Screenshots/Screenshot5.png)
      
-   - ![Admin Panel Screenshot 3](Screenshots/Screenshot6.png)
+    ![Admin Panel Screenshot 3](Screenshots/Screenshot6.png)
      
-   - ![Admin Panel Screenshot 4](Screenshots/Screenshot7.png)
+    ![Admin Panel Screenshot 4](Screenshots/Screenshot7.png)
 
 ## 🔗 Project Demo
 
